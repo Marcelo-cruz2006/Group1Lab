@@ -2,6 +2,10 @@ from rps import play_rps
 from guessing import play_guessing_game
 
 
+# Lab 1: Rock, Paper, Scissors and Guessing Game
+# Author: Marcelo Cruz
+# Date: 10/23/2026
+
 def main():
       print("Hello, welcome to the Rock, Paper, Scissors game! or guessing game!")
       while True:
